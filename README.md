@@ -35,7 +35,7 @@ Smart_Shopping_Website/
 
 **Important:** Run using Live Server (or another local HTTP server). The app uses `fetch("products.json")`, which normally does not work when `index.html` is opened directly using a `file://` URL.
 
-## Main JavaScript concepts to understand for viva
+## Main JavaScript concepts 
 
 - **SPA routing:** `renderRoute()` reads the URL hash and displays the correct view. The `hashchange` event updates the view when navigation changes.
 - **JSON / fetch:** `loadProducts()` fetches `products.json` and converts the response into JavaScript data using `response.json()`.
