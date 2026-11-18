@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Everyday Backpack",
+    "category": "Accessories",
+    "price": 1299,
+    "emoji": "🎒",
+    "color": "#e7eee8",
+    "tag": "Bestseller",
+    "description": "A lightweight everyday backpack with a clean, practical design."
+  },
+  {
+    "id": 2,
+    "name": "Classic Sneakers",
+    "category": "Fashion",
+    "price": 1899,
+    "emoji": "👟",
+    "color": "#f4e8dc",
+    "tag": "Popular",
+    "description": "Comfortable sneakers made for everyday use."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "emoji": "🎧",
+    "color": "#e8e7f2",
+    "tag": "Top rated",
+    "description": "Enjoy your favourite music with wireless convenience."
+  },
+  {
+    "id": 4,
+    "name": "Minimal Watch",
+    "category": "Accessories",
+    "price": 1599,
+    "emoji": "⌚",
+    "color": "#f3e9d9",
+    "tag": "New",
+    "description": "A minimal watch that complements your daily style."
+  },
+  {
+    "id": 5,
+    "name": "Ceramic Coffee Mug",
+    "category": "Home",
+    "price": 399,
+    "emoji": "☕",
+    "color": "#f2e5df",
+    "tag": "Value pick",
+    "description": "A simple ceramic mug for your coffee or tea."
+  },
+  {
+    "id": 6,
+    "name": "Desk Plant",
+    "category": "Home",
+    "price": 299,
+    "emoji": "🪴",
+    "color": "#e3eee0",
+    "tag": "Fresh pick",
+    "description": "A little green addition to brighten your desk."
+  },
+  {
+    "id": 7,
+    "name": "Sunglasses",
+    "category": "Fashion",
+    "price": 799,
+    "emoji": "🕶️",
+    "color": "#e8edf0",
+    "tag": "Trending",
+    "description": "Classic sunglasses for a relaxed everyday look."
+  },
+  {
+    "id": 8,
+    "name": "Smart Speaker",
+    "category": "Electronics",
+    "price": 3299,
+    "emoji": "🔊",
+    "color": "#eee8e2",
+    "tag": "Featured",
+    "description": "A compact smart speaker for your room."
+  }
+]
